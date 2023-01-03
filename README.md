@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @simmy
+- 👀 I’m interested in programming, travelling, cooking, and reading books.
+- 🌱 I’m currently learning how to be consistent and stop procastinate.
+- 📫 How to reach me ? => simranpanthi101@gmail.com
