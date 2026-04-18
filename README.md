@@ -18,10 +18,6 @@ I build web applications end-to-end, from database schema to deployed UI. Curren
 **DevOps & Cloud:** Docker, Azure, GitHub Actions
 **Tools:** Git, Postman, Figma, Jira
 
-#### 📌 Featured Projects
-https://github.com/sim-my/Bingbot
-https://github.com/sim-my/smart-dictionary
-
 #### 📊 GitHub Stats
 
 ![Your stats](https://github-readme-stats.vercel.app/api?username=sim-my&show_icons=true&theme=default)
