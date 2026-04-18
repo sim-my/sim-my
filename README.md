@@ -2,7 +2,7 @@
 
 **Full Stack Developer based in Winnipeg, Canada 🇨🇦**
 
-I build web applications end-to-end — from database schema to deployed UI. Currently open to full-time Software Developer roles across Canada (remote or on-site, open to relocation).
+I build web applications end-to-end, from database schema to deployed UI. Currently open to full-time Software Developer roles across Canada (remote or on-site, open to relocation).
 
 - 🎓 Master's in Computer Science, University of Manitoba
 - 💼 3+ years building production full-stack apps (previously at Leapfrog Technology in Nepal)
