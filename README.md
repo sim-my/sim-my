@@ -1,4 +1,4 @@
-### Hi, I'm [Your Name] 👋
+### Hi, I'm Simran Panthi 👋
 
 **Full Stack Developer based in Winnipeg, Canada 🇨🇦**
 
@@ -8,7 +8,7 @@ I build web applications end-to-end, from database schema to deployed UI. Curren
 - 💼 3+ years building production full-stack apps (previously at Leapfrog Technology in Nepal)
 - 🔭 Currently working on: pompom — a pomodoro timer app
 - 🌱 Sharpening: Next.js 14, system design, TypeScript
-- 📫 simranpanthi101@gmail.com · [https://www.linkedin.com/in/sim-my/]
+- 📫 simranpanthi101@gmail.com · https://www.linkedin.com/in/sim-my/
 
 #### 🛠️ Tech I work with
 
