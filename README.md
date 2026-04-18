@@ -24,5 +24,5 @@ https://github.com/sim-my/smart-dictionary
 
 #### 📊 GitHub Stats
 
-![Your stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Your stats](https://github-readme-stats.vercel.app/api?username=sim-my&show_icons=true&theme=default)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sim-my&layout=compact)
