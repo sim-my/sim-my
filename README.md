@@ -17,8 +17,3 @@ I build web applications end-to-end, from database schema to deployed UI. Curren
 **Databases:** PostgreSQL, Redis  
 **DevOps & Cloud:** Docker, Azure, GitHub Actions
 **Tools:** Git, Postman, Figma, Jira
-
-#### 📊 GitHub Stats
-
-![Your stats](https://github-readme-stats.vercel.app/api?username=sim-my&show_icons=true&theme=default)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sim-my&layout=compact)
